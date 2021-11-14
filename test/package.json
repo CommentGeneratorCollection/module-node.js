@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": ">=16"
+  },
+  "packageManager": "yarn@3.1.0",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
